@@ -4,7 +4,7 @@
 
 <br />
 
-Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in data science and machine learning 💻 and trying to improve myself 🚀.
+Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in data science and machine learning 💻 trying to improve myself 🚀.
 <br/>
 ## Technologies I am interested in :computer:
 * Machine Learning
