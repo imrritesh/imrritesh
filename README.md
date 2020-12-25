@@ -41,7 +41,7 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 
 <br/>
 
-You're on my Github profile now!!
+Great, You're on my Github profile now!!
 <br/>
 Please, feel free to clone/download my projects and give your inputs.✌
 <br/>
