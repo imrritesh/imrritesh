@@ -22,7 +22,6 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 - 🙍  Open Source Contributor
 - ⚡️ Read my blogs here: [Ritesh](https://medium.com/@i.m.mrritesh)
 - 📫 Mail me at: i.m.mrritesh@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1M71_tNT2-fzN7lotmVFi9lg6SUetPCRt/view?usp=sharing)
 
 **Languages and Tools:**  
 
