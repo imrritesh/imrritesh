@@ -17,13 +17,12 @@ Cyber Security Analyst passionate about protecting digital worlds. Skilled in th
 **About Me:**
 
 - 👨🏽‍💻 Machine Learning enthusiast.  
-- 💬 Let's talk about technologies and stuffs.
-- 👨🏽‍💼 Actively learnig about MERN stack..
-- 🙍  Open Source Contributor
+- 💬 Talks about technologies and stuffs.
+- - 🙍 Open Source Contributor
 - ⚡️ Read my blogs here: [Ritesh](https://medium.com/@i.m.mrritesh)
 - 📫 Mail me at: i.m.mrritesh@gmail.com
 
-**Languages and Tools:**  
+**Tech Stacks:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
