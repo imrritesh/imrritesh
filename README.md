@@ -13,7 +13,9 @@ Cyber Security Analyst passionate about protecting digital worlds. Skilled in th
 * Cyber security
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
 **About Me:**
+  
 - 👨🏽‍💻 Machine Learning enthusiast.  
 - 💬 Talks about technologies and stuffs.
 - - 🙍 Open Source Contributor
