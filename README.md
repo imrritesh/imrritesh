@@ -18,7 +18,7 @@ Cyber Security Analyst passionate about protecting digital worlds. Skilled in th
   
 - 👨🏽‍💻 Machine Learning enthusiast.  
 - 💬 Talks about technologies and stuffs.
-- - 🙍 Open Source Contributor
+- 🙍 Open Source Contributor
 - ⚡️ Read my blogs here: [Ritesh](https://medium.com/@i.m.mrritesh)
 - 📫 Mail me at: i.m.mrritesh@gmail.com
 
