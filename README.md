@@ -4,13 +4,13 @@
 
 <br />
 
-Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in data science and machine learning 💻 trying to learn and improve myself 🚀.
+Cyber Security Analyst passionate about protecting digital worlds. Skilled in threat analysis, risk mitigation, and incident response. Always learning, always alert—on a mission to outsmart cyber threats and keep data safe in an ever-evolving tech landscape. 👨‍💻
 <br/>
-## Technologies I am interested in :computer:
+## My prime :computer:
 * Machine Learning
 * Deep Learning
 * Data Science
-* Frontend and Backend Web Development
+* Cyber security
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
@@ -57,6 +57,6 @@ Happy Coding!!
 <a href="https://t.me/i_mrritesh">
   <img align="left" alt="Ritesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/i.mrritesh/">
+<a href="https://www.instagram.com/ritesh.x.singh/">
   <img align="left" alt="Ritesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
